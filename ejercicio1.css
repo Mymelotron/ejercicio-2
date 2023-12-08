@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  form {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  input {
+    width: 100px;
+    margin-bottom: 10px;
+  }
+  
+  select {
+    width: 100px;
+  }
+  
+  input[type="submit"] {
+    background-color: green;
+    color: white;
+  }
